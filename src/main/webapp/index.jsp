@@ -3,11 +3,12 @@
 <h2>Hello World! Welcome to Jenkins Tomcat Web App.</h2>
 <h1>Hello all!!!</h1>
 <h1>DevOps Rocks!!!</h1>
-<h1>!!!Selamun aleykum!!!</h1>
-<h1>!!!Vira Bismillah!!</h1>
+
+<h1>!!!Hello New Life!!</h1>
 </h1>
 </body>
 </html>
+
 
 
 
